@@ -1,8 +1,8 @@
-##AI Resume Optimizer & Career Dashboard
+**AI Resume Optimizer & Career Dashboard**
 This is the capstone project by Alhassane Samassekou. It's an AI-powered tool to help job seekers optimize their resumes.
 
-##Prerequisites
-Before you begin, ensure you have the following installed:
+**Prerequisites
+Before you begin, ensure you have the following installed:**
 
 Git
 
